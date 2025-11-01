@@ -33,8 +33,8 @@ If I’m not buried in code, you’ll probably find me:
 ---
 
 ### 📫 Catch me from
-- **LinkedIn:** [linkedin.com/in/ayush-sonakpuriya](https://www.linkedin.com/in/ayush-sonakpuriya/)  
-- **Email:** [ayushsonakpuriya@gmail.com](mailto:ayushsonakpuriya@gmail.com)  
+- **LinkedIn:** [Jump on my LinkedIn](https://www.linkedin.com/in/ayush-sonakpuriya/)  
+- **Email:** [Grab my email](mailto:ayushsonakpuriya@gmail.com)  
 
 
 ---
