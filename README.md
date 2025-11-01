@@ -1,42 +1,59 @@
-# 👋 Hey, I'm Ayush Sonakpuriya
+<!-- 🎬 Ayush Sonakpuriya | Cinematic GitHub Profile -->
 
-I'm an **engineering student** who loves turning ideas into functional, aesthetic web experiences.  
-I like systems that make sense, interfaces that feel right, and code that doesn’t scream for help.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&text=Hey%2C%20I'm%20Ayush%20Sonakpuriya%20👋&fontColor=ffffff&fontSize=38&fontAlignY=40" width="100%"/>
 
-💡 Still learning the ropes of modern development, but I enjoy every bug, crash, and “why isn’t this working” moment.  
-Because that’s where the fun (and caffeine dependency) begins.
+## 🎥 About Me
 
----
+I'm **Ayush Sonakpuriya**, an engineering student who believes creativity isn’t a side skill — it’s the core of everything worth building.  
+I see **code** as a form of storytelling — structure, emotion, rhythm — just like cinema, but in logic and pixels.  
 
-### 🌱 What I’m Into
-- Building **modern, responsive web apps**  
-- Learning **frontend frameworks** and exploring backend basics  
-- Getting into **UI/UX design** that looks clean without overcomplicating things  
-- Collaborating on projects that push me out of my comfort zone  
+> “Some people write scripts, others write code. I just try to make both look good.”
 
 ---
 
-### 🧰 Tech & Tools
-- **Frontend:** HTML, CSS, JavaScript, TailwindCSS (currently exploring React)  
-- **Backend:** Node.js & Express.js (beginner level, but learning fast)  
-- **Other Tools:** Git, GitHub, VS Code, Postman  
+## 🌱 What I’m Exploring
 
-> not a senior dev yet, but my Ctrl+Z skills are elite.
+🎬 Bringing **Hollywood-level detail** into web experiences  
+🎨 Learning **UI/UX design** that feels cinematic, not corporate  
+🎧 Combining **music, motion, and design** for expressive interfaces  
+💡 Experimenting with side projects that blend art and function  
+
+---
+
+## 🧰 Tech & Tools
+
+| **Category** | **Tools & Tech** |
+|---------------|-----------------|
+| 🖥️ **Frontend** | HTML • CSS • JavaScript • TailwindCSS • React (learning) |
+| ⚙️ **Backend** | Node.js • Express.js |
+| 🧠 **Others** | Git • GitHub • VS Code • Postman |
+
+> currently mastering the art of making clean code look like good design.
 
 ---
 
-### 🎬 When I'm Not Coding
-If I’m not buried in code, you’ll probably find me:
-- Watching **Hollywood films**—from Nolan’s mind-benders to Fincher’s slow burns  
-- Sketching random ideas that might become my next project  
-- Daydreaming about building something people actually use  
----
+## 🎬 Beyond Code
 
-### 📫 Catch me from
-- **💼** [Jump on my LinkedIn](https://www.linkedin.com/in/ayush-sonakpuriya/)  
-- **📧** [Grab my email](mailto:ayushsonakpuriya@gmail.com)  
-
+🎞️ Deeply inspired by **Christopher Nolan’s storytelling** — layered, thoughtful, cinematic.  
+🎧 Passionate about **music, soundtracks, and minimalist design.**  
+🖋️ Occasionally sketch, design, or dream up visuals that feel *aesthetic yet functional.*  
+📷 I find beauty in detail — the shadows, the silence, the transitions.
 
 ---
+
+## ✨ Quote I Live By
+
+> “Art and logic are never opposites — they’re just written in different languages.”
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Ayush%20Sonakpuriya-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ayush-sonakpuriya/)  
+📧 [ayushsonakpuriya@gmail.com](mailto:ayushsonakpuriya@gmail.com)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=130&section=footer" width="100%"/>
 
 > “still figuring things out, one commit at a time.”
