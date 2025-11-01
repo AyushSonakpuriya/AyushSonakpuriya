@@ -8,7 +8,7 @@ I'm **Ayush Sonakpuriya**, an engineering student who enjoys turning ideas into 
 For me, creativity isn’t about big words — it’s about making design and logic blend naturally.  
 I like clean interfaces, smooth experiences, and code that feels effortless when it runs.
 
-> “Creativity isn’t just visuals or logic — it’s the bridge between them.”
+> "I don’t chase perfection, just balance — where design feels human and code feels alive."
 
 
 ---
@@ -46,7 +46,7 @@ I like clean interfaces, smooth experiences, and code that feels effortless when
 
 ## ✨ Quote I Live By
 
-> “I don’t chase perfection, just balance — where design feels human and code feels alive.”
+> “Creativity isn’t just visuals or logic — it’s the bridge between them.”
 
 ---
 
