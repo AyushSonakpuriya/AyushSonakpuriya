@@ -8,7 +8,7 @@ I'm **Ayush Sonakpuriya**, an engineering student who enjoys turning ideas into 
 For me, creativity isn’t about big words — it’s about making design and logic blend naturally.  
 I like clean interfaces, smooth experiences, and code that feels effortless when it runs.
 
-> “Good design is invisible. Good code feels the same.”
+> “Creativity isn’t just visuals or logic — it’s the bridge between them.”
 
 
 ---
@@ -46,13 +46,14 @@ I like clean interfaces, smooth experiences, and code that feels effortless when
 
 ## ✨ Quote I Live By
 
-> “Art and logic are never opposites — they’re just written in different languages.”
+> “I don’t chase perfection, just balance — where design feels human and code feels alive.”
 
 ---
 
 ## 📫 Let’s Connect
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Ayush%20Sonakpuriya-495f77?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ayush-sonakpuriya/)
+
 📧 [ayushsonakpuriya@gmail.com](mailto:ayushsonakpuriya@gmail.com)
 
 ---
