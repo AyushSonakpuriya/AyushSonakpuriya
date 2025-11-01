@@ -4,19 +4,22 @@
 
 ## 🎥 About Me
 
-I'm **Ayush Sonakpuriya**, an engineering student who believes creativity isn’t a side skill — it’s the core of everything worth building.  
-I see **code** as a form of storytelling — structure, emotion, rhythm — just like cinema, but in logic and pixels.  
+I'm **Ayush Sonakpuriya**, an engineering student who enjoys turning ideas into things that actually *work and look good*.  
+For me, creativity isn’t about big words — it’s about making design and logic blend naturally.  
+I like clean interfaces, smooth experiences, and code that feels effortless when it runs.
 
-> “Some people write scripts, others write code. I just try to make both look good.”
+> “Good design is invisible. Good code feels the same.”
+
 
 ---
 
 ## 🌱 What I’m Exploring
 
-🎬 Bringing **Hollywood-level detail** into web experiences  
-🎨 Learning **UI/UX design** that feels cinematic, not corporate  
-🎧 Combining **music, motion, and design** for expressive interfaces  
-💡 Experimenting with side projects that blend art and function  
+🎬 Building **modern, responsive web experiences** with a focus on detail  
+🎨 Exploring **UI/UX design** that’s clean, minimal, and expressive  
+🧠 Learning **frontend frameworks** and a bit of backend to balance both sides  
+💡 Experimenting with small projects that teach real-world problem solving
+
 
 ---
 
@@ -49,7 +52,7 @@ I see **code** as a form of storytelling — structure, emotion, rhythm — just
 
 ## 📫 Let’s Connect
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Ayush%20Sonakpuriya-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ayush-sonakpuriya/)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Ayush%20Sonakpuriya-495f77?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ayush-sonakpuriya/)
 📧 [ayushsonakpuriya@gmail.com](mailto:ayushsonakpuriya@gmail.com)
 
 ---
