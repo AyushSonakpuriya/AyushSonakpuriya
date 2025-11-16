@@ -58,6 +58,7 @@ I like clean interfaces, smooth experiences, and code that feels effortless when
 
 ---
 
+> “still figuring things out, one commit at a time.”
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=130&section=footer" width="100%"/>
 
-> “still figuring things out, one commit at a time.”
