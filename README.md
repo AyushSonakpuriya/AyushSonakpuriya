@@ -16,7 +16,7 @@ I like clean interfaces, smooth experiences, and code that feels effortless when
 ## 🌱 What I’m Exploring 
 
 🎬 Building **modern, responsive web experiences** with a focus on detail  
-🎨 Exploring **UI/UX design** that’s clean, minimal, and expressive  
+🎨 Exploring **UI/UX design** that’s clean, minimal, and expressive 
 🧠 Learning **frontend frameworks** and a bit of backend to balance both sides  
 💡 Experimenting with small projects that teach real-world problem solving
 
