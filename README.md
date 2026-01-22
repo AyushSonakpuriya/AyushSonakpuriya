@@ -38,9 +38,9 @@ I like clean interfaces, smooth experiences, and code that feels effortless when
 ## 🎬 Beyond Code
 
 🎞️ Deeply inspired by **Christopher Nolan’s storytelling** — layered, thoughtful, cinematic.  
-🎧 Passionate about **music, soundtracks, and minimalist design.**  
+🎧 Passionate about **music, soundtracks, and minimalist design.**   
 🖋️ Occasionally sketch, design, or dream up visuals that feel *aesthetic yet functional.*  
-📷 I find beauty in detail — the shadows, the silence, the transitions.
+📷 I find beauty in detail — the shadows, the silence, the transitions. 
 
 ---
 
