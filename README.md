@@ -10,7 +10,7 @@ I like clean interfaces, smooth experiences, and code that feels effortless when
 
 > "I don’t chase perfection, just balance — where design feels human and code feels alive."
 
-
+ 
 ---
 
 ## 🌱 What I’m Exploring 
