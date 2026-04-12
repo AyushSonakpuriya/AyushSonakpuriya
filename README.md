@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&text=Hey%2C%20I'm%20Ayush%20Sonakpuriya%20👋&fontColor=ffffff&fontSize=38&fontAlignY=40" width="100%"/>
  
 ## 🎥 About Me 
-
+ 
 I'm **Ayush Sonakpuriya**, an engineering student who enjoys turning ideas into things that actually *work and look good*.  
 For me, creativity isn’t about big words — it’s about making design and logic blend naturally.  
 I like clean interfaces, smooth experiences, and code that feels effortless when it runs.
