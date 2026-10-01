@@ -683,3 +683,196 @@ Currently pursuing **B.Tech in Information Technology at Chameli Devi Group of I
 <i>Experience is not just what you were assigned. It's what you actually helped move forward.</i>
 
 </div>
+<!-- ========================================================= -->
+<!-- 05 — GITHUB & PERSONAL PRESENCE                           -->
+<!-- ========================================================= -->
+
+<h1>📊 GitHub &amp; Personal Presence</h1>
+
+<p>
+  <i>What my GitHub looks like when nobody is forcing me to submit the assignment.</i>
+</p>
+
+<hr>
+
+<h2>🧑‍💻 GitHub Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AyushSonakpuriya&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="Ayush Sonakpuriya GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSonakpuriya&hide_border=true"
+    alt="Ayush Sonakpuriya GitHub Streak"
+  />
+</p>
+
+<hr>
+
+<h2>🐍 Contribution Snake</h2>
+
+<p>
+  <i>My GitHub contributions, apparently being hunted by a pixelated snake.</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AyushSonakpuriya/AyushSonakpuriya/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+<hr>
+
+<h2>📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AyushSonakpuriya&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+<hr>
+
+<h2>🧠 Currently Exploring</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Current Direction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>⚛️ <b>Full-Stack Development</b></td>
+      <td>Building complete applications from frontend to backend and deployment</td>
+    </tr>
+    <tr>
+      <td>🤖 <b>Generative AI</b></td>
+      <td>LLM-powered applications, AI workflows and practical AI products</td>
+    </tr>
+    <tr>
+      <td>🧠 <b>AI Agents</b></td>
+      <td>Agentic systems, tool calling and multi-step workflows</td>
+    </tr>
+    <tr>
+      <td>📚 <b>RAG</b></td>
+      <td>Embeddings, vector databases, retrieval and contextual generation</td>
+    </tr>
+    <tr>
+      <td>🎨 <b>UI / UX</b></td>
+      <td>Minimal interfaces, interaction design and polished user experiences</td>
+    </tr>
+    <tr>
+      <td>🧩 <b>DSA</b></td>
+      <td>Strengthening algorithms, data structures and problem-solving fundamentals</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h2>🎯 Beyond Code</h2>
+
+<table>
+  <tr>
+    <td>🎬</td>
+    <td><b>Cinematic Storytelling</b></td>
+    <td>Interested in visual storytelling, filmmaking and the craft behind memorable scenes.</td>
+  </tr>
+  <tr>
+    <td>🎵</td>
+    <td><b>Music &amp; Soundtracks</b></td>
+    <td>Exploring how music and sound design shape emotion and storytelling.</td>
+  </tr>
+  <tr>
+    <td>✏️</td>
+    <td><b>Sketching</b></td>
+    <td>A creative outlet away from screens, bugs and terminal windows.</td>
+  </tr>
+  <tr>
+    <td>🎨</td>
+    <td><b>Minimalist Design</b></td>
+    <td>Interested in clean visual systems, typography, spacing and thoughtful interfaces.</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Developer Communities</b></td>
+    <td>Contributing to technical communities, hackathons and student-led initiatives.</td>
+  </tr>
+</table>
+
+<hr>
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="center">
+
+  <a href="https://github.com/AyushSonakpuriya">
+    <img
+      src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ayush-sonakpuriya/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:ayushsonakpuriya@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+</p>
+
+<hr>
+
+<h2>⚡ Profile Philosophy</h2>
+
+<div align="center">
+
+<h3>Build. Break. Learn. Repeat.</h3>
+
+<p>
+  <i>
+    I don't aim to know everything.
+    I aim to keep becoming better at building things that matter.
+  </i>
+</p>
+
+<br>
+
+<b>💻 Code &nbsp; • &nbsp; 🎨 Design &nbsp; • &nbsp; 🤖 AI &nbsp; • &nbsp; 🚀 Build &nbsp; • &nbsp; 🌱 Learn</b>
+
+</div>
+
+<hr>
+
+<div align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=AyushSonakpuriya&style=flat-square&color=000000"
+  alt="Profile Views"
+/>
+
+<br><br>
+
+<i>Thanks for stopping by.</i>
+
+<br>
+
+<b>⭐ If something here helped or interested you, consider exploring the repositories.</b>
+
+</div>
