@@ -313,3 +313,191 @@ Currently pursuing **B.Tech in Information Technology at Chameli Devi Group of I
 <b>Build → Break → Debug → Learn → Improve</b>
 
 </div>
+
+<!-- ========================================================= -->
+<!-- 03 — PROJECTS & ENGINEERING WORK                          -->
+<!-- ========================================================= -->
+
+<h1>🚀 Projects &amp; Engineering Work</h1>
+
+<p>
+  <i>Things I've built, experimented with, and worked on beyond just writing code.</i>
+</p>
+
+<hr>
+
+<h2>⚡ Weight Delta</h2>
+
+<p>
+  <b>A full-stack web application for calculating the calorie surplus or deficit required to reach a target body weight.</b>
+</p>
+
+<table>
+  <tr>
+    <td><b>🧩 Type</b></td>
+    <td>Full-Stack Web Application</td>
+  </tr>
+  <tr>
+    <td><b>⚛️ Frontend</b></td>
+    <td>React, Vite, JavaScript, CSS</td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Backend</b></td>
+    <td>Supabase, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><b>🚀 Deployment</b></td>
+    <td>Vercel</td>
+  </tr>
+  <tr>
+    <td><b>🔐 Authentication</b></td>
+    <td>Email OTP, Sessions, Protected Routes</td>
+  </tr>
+</table>
+
+<br>
+
+<ul>
+  <li>Built a calorie planning system based on current and desired body weight.</li>
+  <li>Implemented user authentication using Supabase Email OTP.</li>
+  <li>Added session handling and protected application routes.</li>
+  <li>Connected user calculations with PostgreSQL for persistent storage.</li>
+  <li>Implemented user-specific calculation history.</li>
+  <li>Designed a responsive and minimal user interface.</li>
+  <li>Deployed the application using Vercel.</li>
+</ul>
+
+<p>
+  <b>Focus:</b> Full-stack development • Authentication • Database integration • Product UI • Deployment
+</p>
+
+<hr>
+
+<h2>🏆 SNOWHACKS</h2>
+
+<p>
+  <b>College-level hackathon focused on open innovation and practical problem solving.</b>
+</p>
+
+<table>
+  <tr>
+    <td><b>🎯 Role</b></td>
+    <td>Organizing Team</td>
+  </tr>
+  <tr>
+    <td><b>🏛️ Community</b></td>
+    <td>GDG On Campus CDGI / Echelon Dev Society</td>
+  </tr>
+  <tr>
+    <td><b>📍 Location</b></td>
+    <td>Chameli Devi Group of Institutions, Indore</td>
+  </tr>
+</table>
+
+<br>
+
+<ul>
+  <li>Handled major portions of the pre-event operational workflow.</li>
+  <li>Managed participant registrations and team shortlisting.</li>
+  <li>Coordinated participant communication through WhatsApp groups.</li>
+  <li>Prepared and managed participant communication through emails.</li>
+  <li>Supported event logistics and coordination.</li>
+  <li>Worked with the organizing team to maintain smooth participant operations.</li>
+</ul>
+
+<p>
+  <b>Focus:</b> Event Operations • Communication • Coordination • Community Building • Teamwork
+</p>
+
+<hr>
+
+<h2>🔥 HackWave 3.0</h2>
+
+<p>
+  <b>36-hour offline hackathon organized by Echelon Dev Society at Chameli Devi Group of Institutions, Indore.</b>
+</p>
+
+<table>
+  <tr>
+    <td><b>📅 Date</b></td>
+    <td>10 October 2026</td>
+  </tr>
+  <tr>
+    <td><b>⏱️ Duration</b></td>
+    <td>36 Hours</td>
+  </tr>
+  <tr>
+    <td><b>🏛️ Organizer</b></td>
+    <td>Echelon Dev Society</td>
+  </tr>
+  <tr>
+    <td><b>📍 Venue</b></td>
+    <td>Chameli Devi Group of Institutions, Indore</td>
+  </tr>
+</table>
+
+<br>
+
+<ul>
+  <li>Contributed to participant outreach and community promotion.</li>
+  <li>Supported participant communication and coordination.</li>
+  <li>Worked on promotional activities and external outreach.</li>
+  <li>Supported event operations and on-ground coordination.</li>
+  <li>Contributed to community building around the hackathon.</li>
+  <li>Collaborated with the organizing team across multiple operational areas.</li>
+</ul>
+
+<p>
+  <b>Focus:</b> Hackathon Operations • Outreach • Community Building • Communication • Coordination
+</p>
+
+<hr>
+
+<h2>🧪 What I Like Building</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>What I Explore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🌐 <b>Web Applications</b></td>
+      <td>Responsive, functional and production-oriented web experiences</td>
+    </tr>
+    <tr>
+      <td>🎨 <b>UI / UX</b></td>
+      <td>Minimal interfaces, visual hierarchy and thoughtful interactions</td>
+    </tr>
+    <tr>
+      <td>🤖 <b>AI Applications</b></td>
+      <td>Generative AI, RAG systems, AI agents and AI-assisted products</td>
+    </tr>
+    <tr>
+      <td>🗄️ <b>Backend Systems</b></td>
+      <td>APIs, authentication, databases and application architecture</td>
+    </tr>
+    <tr>
+      <td>🧩 <b>Problem Solving</b></td>
+      <td>Data structures, algorithms, debugging and logical thinking</td>
+    </tr>
+    <tr>
+      <td>🚀 <b>Developer Products</b></td>
+      <td>Turning ideas into usable and deployable software</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<div align="center">
+
+<b>Ideas → Architecture → Code → Debug → Deploy</b>
+
+<br><br>
+
+<i>Building is where theory finally has to survive contact with reality.</i>
+
+</div>
