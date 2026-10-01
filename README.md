@@ -125,3 +125,191 @@ Currently pursuing **B.Tech in Information Technology at Chameli Devi Group of I
 ### Building with logic. Designing with intent.
 
 </div>
+
+<!-- ========================================================= -->
+<!-- 02 — ENGINEERING STACK & CAPABILITIES                     -->
+<!-- ========================================================= -->
+
+<h1>⚙️ Engineering Stack &amp; Capabilities</h1>
+
+<p>
+  <i>What can I build, what technologies do I work with, and what am I currently exploring?</i>
+</p>
+
+<hr>
+
+<h2>💻 Languages</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" alt="HTML CSS JavaScript Python Java" />
+</p>
+
+<p>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+  <code>Python</code>
+  <code>Java</code>
+</p>
+
+<hr>
+
+<h2>🎨 Frontend Development</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="React Tailwind CSS Vite" />
+</p>
+
+<ul>
+  <li>Responsive web interfaces</li>
+  <li>Component-based UI development</li>
+  <li>Modern React development</li>
+  <li>Responsive layouts</li>
+  <li>UI/UX implementation</li>
+  <li>Interactive frontend experiences</li>
+  <li>Minimal and detail-oriented design</li>
+  <li>Performance-conscious frontend development</li>
+</ul>
+
+<hr>
+
+<h2>⚙️ Backend &amp; Databases</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgresql" alt="Node.js Express.js Supabase PostgreSQL" />
+</p>
+
+<ul>
+  <li>REST API development</li>
+  <li>Backend integration</li>
+  <li>Authentication</li>
+  <li>Database design</li>
+  <li>PostgreSQL</li>
+  <li>Supabase</li>
+  <li>User-specific data persistence</li>
+  <li>API testing and integration</li>
+  <li>Client-server architecture</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ Tools &amp; Development Workflow</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git GitHub VS Code Postman Vercel" />
+</p>
+
+<ul>
+  <li>Git &amp; GitHub</li>
+  <li>VS Code</li>
+  <li>Postman</li>
+  <li>Vercel</li>
+  <li>Version control</li>
+  <li>API testing</li>
+  <li>Deployment workflows</li>
+  <li>Debugging and iterative development</li>
+</ul>
+
+<hr>
+
+<h2>🤖 AI / ML &amp; Emerging Technologies</h2>
+
+<p>
+  I'm exploring how modern AI capabilities can be integrated into practical software products rather than treated as isolated experiments.
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>Focus</th>
+      <th>What I'm Exploring</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Generative AI</b></td>
+      <td>Exploring</td>
+      <td>LLM-powered applications and modern AI workflows</td>
+    </tr>
+    <tr>
+      <td><b>AI-Assisted Development</b></td>
+      <td>Exploring</td>
+      <td>Using AI tools to accelerate development and experimentation</td>
+    </tr>
+    <tr>
+      <td><b>RAG Systems</b></td>
+      <td>Learning</td>
+      <td>Retrieval, embeddings, vector databases and contextual generation</td>
+    </tr>
+    <tr>
+      <td><b>AI Agents</b></td>
+      <td>Learning</td>
+      <td>Agentic workflows and tool-based AI systems</td>
+    </tr>
+    <tr>
+      <td><b>LangChain</b></td>
+      <td>Exploring</td>
+      <td>Structured AI application workflows</td>
+    </tr>
+    <tr>
+      <td><b>LangGraph</b></td>
+      <td>Exploring</td>
+      <td>Graph-based agent workflows</td>
+    </tr>
+    <tr>
+      <td><b>Google Gemini / GenAI</b></td>
+      <td>Exploring</td>
+      <td>Generative AI APIs and application development</td>
+    </tr>
+    <tr>
+      <td><b>Machine Learning</b></td>
+      <td>Learning</td>
+      <td>Strengthening machine learning fundamentals</td>
+    </tr>
+    <tr>
+      <td><b>AI Product Engineering</b></td>
+      <td>Exploring</td>
+      <td>Connecting AI capabilities with usable software products</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h2>🧠 Core Engineering Areas</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🌐 <b>Web Engineering</b></td>
+      <td>Frontend architecture, backend integration, REST APIs, authentication, deployment and responsive design</td>
+    </tr>
+    <tr>
+      <td>🗄️ <b>Data &amp; Backend</b></td>
+      <td>PostgreSQL, Supabase, database schemas, CRUD operations, data persistence and API communication</td>
+    </tr>
+    <tr>
+      <td>🧩 <b>Problem Solving</b></td>
+      <td>Data structures, algorithms, complexity analysis, logical problem solving and debugging</td>
+    </tr>
+    <tr>
+      <td>🎨 <b>UI / UX Engineering</b></td>
+      <td>Visual hierarchy, responsive layouts, component systems, interaction design and design consistency</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<div align="center">
+
+<b>Build → Break → Debug → Learn → Improve</b>
+
+</div>
