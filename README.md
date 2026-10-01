@@ -501,3 +501,185 @@ Currently pursuing **B.Tech in Information Technology at Chameli Devi Group of I
 <i>Building is where theory finally has to survive contact with reality.</i>
 
 </div>
+
+<!-- ========================================================= -->
+<!-- 04 — EXPERIENCE & RECOGNITION                             -->
+<!-- ========================================================= -->
+
+<h1>🏆 Experience &amp; Recognition</h1>
+
+<p>
+  <i>Beyond projects, I've worked with student communities, technical events, and teams where execution matters as much as code.</i>
+</p>
+
+<hr>
+
+<h2>🌐 GDG On Campus CDGI</h2>
+
+<table>
+  <tr>
+    <td><b>🎯 Role</b></td>
+    <td>Core Team / Organizer</td>
+  </tr>
+  <tr>
+    <td><b>📅 Tenure</b></td>
+    <td>2025 – Present</td>
+  </tr>
+  <tr>
+    <td><b>🏛️ Organization</b></td>
+    <td>Google Developer Groups on Campus</td>
+  </tr>
+  <tr>
+    <td><b>📍 Chapter</b></td>
+    <td>CDGI, Indore</td>
+  </tr>
+</table>
+
+<br>
+
+<ul>
+  <li>Contribute to building and growing the campus developer community.</li>
+  <li>Support the organization of technical events, workshops and hackathons.</li>
+  <li>Coordinate with students, speakers, organizers and participants.</li>
+  <li>Contribute to technical event promotion and community outreach.</li>
+  <li>Support participant communication and event operations.</li>
+  <li>Work collaboratively with the organizing team to execute community initiatives.</li>
+</ul>
+
+<p>
+  <b>Focus:</b> Developer Community • Technical Events • Outreach • Coordination • Community Building
+</p>
+
+<hr>
+
+<h2>⚡ Echelon Dev Society</h2>
+
+<table>
+  <tr>
+    <td><b>🎯 Role</b></td>
+    <td>Core Team Member</td>
+  </tr>
+  <tr>
+    <td><b>📅 Tenure</b></td>
+    <td>2025 – Present</td>
+  </tr>
+  <tr>
+    <td><b>🏛️ Organization</b></td>
+    <td>Echelon Dev Society</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Focus</b></td>
+    <td>Hackathons &amp; Technical Events</td>
+  </tr>
+</table>
+
+<br>
+
+<ul>
+  <li>Contribute to planning and execution of technical events.</li>
+  <li>Support hackathon coordination and participant management.</li>
+  <li>Handle communication and operational tasks across events.</li>
+  <li>Contribute to outreach and promotion activities.</li>
+  <li>Assist with logistics and on-ground event execution.</li>
+  <li>Collaborate with team members across different stages of event planning.</li>
+</ul>
+
+<p>
+  <b>Focus:</b> Hackathon Coordination • Event Operations • Outreach • Communication • Team Collaboration
+</p>
+
+<hr>
+
+<h2>📋 Training &amp; Placement Department</h2>
+
+<table>
+  <tr>
+    <td><b>🎯 Role</b></td>
+    <td>Student Volunteer</td>
+  </tr>
+  <tr>
+    <td><b>🏛️ Organization</b></td>
+    <td>Chameli Devi Group of Institutions</td>
+  </tr>
+  <tr>
+    <td><b>📍 Location</b></td>
+    <td>Indore, Madhya Pradesh</td>
+  </tr>
+</table>
+
+<br>
+
+<ul>
+  <li>Supported departmental activities and student coordination.</li>
+  <li>Assisted with communication and organizational tasks.</li>
+  <li>Worked with students and coordinators during placement-related activities.</li>
+  <li>Contributed to smooth execution of assigned responsibilities.</li>
+</ul>
+
+<p>
+  <b>Focus:</b> Student Coordination • Communication • Organization • Teamwork
+</p>
+
+<hr>
+
+<h2>🎯 Key Contributions</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Experience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🤝 <b>Community Building</b></td>
+      <td>Worked with student developer communities and technical organizations</td>
+    </tr>
+    <tr>
+      <td>🏗️ <b>Event Management</b></td>
+      <td>Contributed to hackathons, technical events and campus initiatives</td>
+    </tr>
+    <tr>
+      <td>📢 <b>Outreach</b></td>
+      <td>Supported participant outreach, promotion and community communication</td>
+    </tr>
+    <tr>
+      <td>📨 <b>Communication</b></td>
+      <td>Handled participant communication through digital channels and email</td>
+    </tr>
+    <tr>
+      <td>⚙️ <b>Operations</b></td>
+      <td>Supported logistics, coordination and on-ground execution</td>
+    </tr>
+    <tr>
+      <td>👥 <b>Teamwork</b></td>
+      <td>Collaborated with organizers, volunteers and student teams</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+<h2>📌 What These Experiences Have Taught Me</h2>
+
+<ul>
+  <li>Technical skills matter, but execution matters just as much.</li>
+  <li>Good communication can prevent a surprising number of completely avoidable problems.</li>
+  <li>Building communities requires consistency, coordination and initiative.</li>
+  <li>Large events are mostly planning, problem solving and controlled chaos.</li>
+  <li>Working with teams has strengthened my leadership and collaboration skills.</li>
+  <li>Real-world projects require adaptability beyond what tutorials usually prepare you for.</li>
+</ul>
+
+<hr>
+
+<div align="center">
+
+<b>Learn → Contribute → Lead → Build → Repeat</b>
+
+<br><br>
+
+<i>Experience is not just what you were assigned. It's what you actually helped move forward.</i>
+
+</div>
