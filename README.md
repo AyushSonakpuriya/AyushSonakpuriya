@@ -15,14 +15,6 @@ I spend most of my time building software, designing intuitive user interfaces, 
 
 ---
 
-### 🚀 Projects
-
-#### **[Weight Delta](https://github.com/your-username/weight-delta)**
-> A web app for tracking body weight targets and calculating precise daily calorie surpluses or deficits based on BMR/TDEE.
-
-* **Tech:** React, Supabase, PostgreSQL, Vercel
-* Built passwordless Auth (Email OTP), session management, and protected routes.
-* Stores persistent user-specific calculation history.
 
 ---
 
@@ -40,9 +32,9 @@ I love bringing developers together and organizing events that help students bui
 
 ### 📫 Get in Touch
 
-* **Email:** [your-email@domain.com](mailto:your-email@domain.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Portfolio / Bento:** [bento.me/your-handle](https://bento.me/your-handle)
+* **Email:** [ayushsonakpuriya@gmail.com](mailto:ayushsonakpuriya@gmail.com) 
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ayush-sonakpuriya)
+
 
 ---
 *“Building tools for people and communities for builders.”*
