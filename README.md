@@ -1,36 +1,48 @@
-# Hey, I'm Ayush Sonakpuriya 👋
+# Hey, I'm Ayush 👋
 
-I am a 3rd-year B.Tech Information Technology student at **Chameli Devi Group of Institutions (CDGI), Indore**. I focus on building clean, responsive interfaces and am currently diving deep into backend architecture and AI engineering.
+I'm a 3rd-year **B.Tech Information Technology** student at Chameli Devi Group of Institutions (CDGI), Indore. 
 
-Beyond writing code, I love bringing developer communities together and organizing hackathons.
-
----
-
-### 💻 Technical Toolbelt
-
-*   **Frontend & Design:** HTML5 • CSS3 • JavaScript • React • Tailwind CSS • Figma
-*   **Backend & Databases:** Node.js • Express.js • Supabase • PostgreSQL • REST APIs
-*   **Workflow & Tools:** Git • GitHub • VS Code • Vercel
-
-### 🧠 Currently Exploring & Learning
-
-I'm currently spending my time understanding system design and building context-aware AI applications:
-*   LLM Applications & RAG Pipelines
-*   LangChain & LangGraph
-*   Vector Databases
+I spend most of my time building software, designing intuitive user interfaces, and organizing tech communities on campus. Currently, I'm diving deeper into **AI Engineering**—working with LLMs, RAG, and Agentic frameworks.
 
 ---
 
-### 👥 Community & Leadership
+### 💻 Tech Stack & Tools
 
-I actively help cultivate the developer ecosystem on campus:
-*   **Core Member** @ Google Developer Groups (GDG) on Campus — CDGI (2025–26)
-*   **Core Member** @ Echelon Dev Society (The hackathon & developer community of CDGI)
-*   *Recent Ecosystem Work:* Handled core operations, registration logistics, and participant management for **SNOWHACKS** and **HackWave 3.0** (a 36-hour offline hackathon).
+* **Frontend:** React, JavaScript, Tailwind CSS, HTML/CSS, Responsive Web Design, UI/UX Design (Figma)
+* **Backend & Data:** Node.js, Express.js, Supabase, PostgreSQL, REST APIs
+* **AI & Workflows:** LLM Applications, RAG, LangChain, LangGraph, Vector Databases
+* **Tooling:** Git, GitHub, Vercel, VS Code
 
 ---
 
-### ⚙️ Find Me Around the Web
+### 🚀 Projects
 
-*   Connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-sonakpuriya)
-*   Drop an email at `ayushsonakpuriya@example.com` 
+#### **[Weight Delta](https://github.com/your-username/weight-delta)**
+> A web app for tracking body weight targets and calculating precise daily calorie surpluses or deficits based on BMR/TDEE.
+
+* **Tech:** React, Supabase, PostgreSQL, Vercel
+* Built passwordless Auth (Email OTP), session management, and protected routes.
+* Stores persistent user-specific calculation history.
+
+---
+
+### 🤝 Community & Leadership
+
+I love bringing developers together and organizing events that help students build cool things:
+
+* **Google Developer Groups (GDG) CDGI** — Core Team (`2025 – 2026`)
+  * Hosting technical workshops, community meetups, and developer outreach.
+* **Echelon Dev Society** — Core Member
+  * **SNOWHACKS:** Managed pre-event logistics, team shortlisting, and participant ops for the open innovation hackathon.
+  * **HackWave 3.0:** Co-leading outreach, registration workflows, and execution for CDGI's upcoming 36-hour offline hackathon.
+
+---
+
+### 📫 Get in Touch
+
+* **Email:** [your-email@domain.com](mailto:your-email@domain.com)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **Portfolio / Bento:** [bento.me/your-handle](https://bento.me/your-handle)
+
+---
+*“Building tools for people and communities for builders.”*
